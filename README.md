@@ -1,25 +1,18 @@
 1. # Overview of the Analysis
 
-This analysis aims to develop a deep learning model to predict outcomes for Alphabet Soup, a charity organization, based on provided features. 
+This analysis aims to develop a deep learning model based on provided features to predict outcomes for Alphabet Soup, a charity organization. 
 The model aims to classify whether funding applications will likely succeed or fail, enabling the organization to optimize its resource allocation.
 
 2. # Results
-
-# Data Preprocessing:
-
-# Target Variable:
-
-IS_SUCCESSFUL was selected as the target variable, as it indicates the success or failure of an application.
+-- Data Preprocessing:
+-- Target Variable:
+-- IS_SUCCESSFUL was selected as the target variable, as it indicates the success or failure of an application.
 
 # Features:
-
-Key features used in the model include:
-
-APPLICATION_TYPE
-
-AFFILIATION
-
-CLASSIFICATION
+-- Key features used in the model include:
+-- APPLICATION_TYPE
+-- AFFILIATION
+-- CLASSIFICATION
 
 USE_CASE
 
